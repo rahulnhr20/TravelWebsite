@@ -1,0 +1,11 @@
+@media print{
+    body{
+        color: blue;
+    }
+}
+/* 
+@media screen/all and (max-width: 500px){
+    body{
+        background-color: aqua;
+    }
+} */
